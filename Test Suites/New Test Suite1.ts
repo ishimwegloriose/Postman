@@ -14,12 +14,12 @@
       <guid>ca8cf264-3b8d-4c49-839a-a02588cbaa47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
+      <testCaseId>Test Cases/Login1</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>7d061618-01ab-4167-8299-c283d1809dcb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logout</testCaseId>
+      <testCaseId>Test Cases/Logout1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
